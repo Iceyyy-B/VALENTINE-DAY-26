@@ -102,4 +102,5 @@ hint.style.display = "none"; // HIDE THE HINT
 result.style.display = "block";
 resizeConfettiCanvas();
 fullScreenConfetti();
+
 });
